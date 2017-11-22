@@ -18,7 +18,7 @@ public class BookDaoImpl implements BookDao{
         // 数据库链接
         Connection connection = null;
 
-        // 预编译statement
+        // 预编译statement8
         PreparedStatement preparedStatement = null;
 
         // 结果集
